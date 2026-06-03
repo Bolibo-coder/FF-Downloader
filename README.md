@@ -1,3 +1,6 @@
+requires: python + dependencies as specified in the get_FF.py file
+usage: get_FF.py -h (or --help) for usage or just run "py get_FF.py" in terminal
+
 V.1.5.1
 - downloads given FitGirl Repack using FF file list.  Scrapes link for NFO (may not be perfect, please check)
 
