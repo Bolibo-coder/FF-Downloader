@@ -8,4 +8,7 @@ V.1.5.3
 - changed order of download: NFO 1st, then OPTIONAL, then GAME FILES; so that dload process can be stopped before having to dload bulk of files.
 
 V.1.6
-- fixed download bar progress for interrupted/partial downloads
+- fix: download bar progress for interrupted/partial downloads
+
+V.1.6.3
+- fix: would not download archives with direct links (one file archives) 
